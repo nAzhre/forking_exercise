@@ -1,7 +1,2 @@
 Hello world
-<<<<<<< HEAD
 conflict in develop
-=======
-hi
-23231
->>>>>>> main
