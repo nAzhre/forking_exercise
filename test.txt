@@ -1,2 +1,2 @@
 Hello world
-conflict in develop
+conflict inecho "" > emptyfile.txt develop
